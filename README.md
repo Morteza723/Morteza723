@@ -8,3 +8,4 @@
 Morteza723/Morteza723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+l need one Arduino Uno for control soft starter motors three phase indicator and three zero crossing and three trestor for my project 
